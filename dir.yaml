@@ -175,6 +175,7 @@
     - data-integration/data-bridge-webhook
     - data-integration/data-bridge-mqtt
     - data-integration/data-bridge-kafka
+    - data-integration/data-bridge-pulsar
     - data-integration/data-bridge-influxdb
     - data-integration/data-bridge-mysql
     - data-integration/data-bridge-redis
@@ -186,7 +187,7 @@
     # - data-integration/data-bridge-cassa
     - data-integration/data-bridge-tdengine
     - data-integration/data-bridge-rocketmq
-    
+
 
     # TODO
     # - title_en: Examples and Tutorials
